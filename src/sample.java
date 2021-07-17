@@ -16,7 +16,7 @@ public class sample
         sample obj = new sample("Abhigyan") ;
         System.out.println(obj.getS());
         System.out.println(obj.second);
-        
+
     }
 
 }
