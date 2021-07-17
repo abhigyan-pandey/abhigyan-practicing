@@ -1,6 +1,7 @@
 public class sample
 {
     String s ;
+    String second ;
     sample(String s)
     {
         this.s = s ;
@@ -14,6 +15,7 @@ public class sample
     {
         sample obj = new sample("Abhigyan") ;
         System.out.println(obj.getS());
+        System.out.println(obj.second);
     }
 
 }
